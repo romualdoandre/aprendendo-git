@@ -13,6 +13,7 @@ $ git status
 ```shell
 $ git log
 $ git log --full-diff -p <file>
+$ git log --oneline --graph --all --decorate #faz um log dos branchs bonito
 ```
 
 ## Checkout
