@@ -1,2 +1,2 @@
 # Aprendendo Git
--- muito fácil
+Esse arquivo irá ter todos os comandos do curso de Git.
