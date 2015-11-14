@@ -40,6 +40,8 @@ $ git show <tag> #mostra o log da tag
 ```
 ## Primeiro Push
 
+Comandos para fazer um primeiro push
+
 ```shell
 $ git remote add origin <url>
 $ git push -u origin master
