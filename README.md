@@ -38,3 +38,9 @@ $ git tag -a <tag> -m <message> #adiciona uma nova tag
 $ git tag -d <tag>  #apaga a tag
 $ git show <tag> #mostra o log da tag
 ```
+## Primeiro Push
+
+```shell
+$ git remote add origin <url>
+$ git push -u origin master
+```
