@@ -27,3 +27,11 @@ $ git checkout -- <file> #Desfazer a mudança no arquivo <file>
 $ git checkout -b <name> #cria e faz checkout na nova branch
 $ git checkout <name> #Alterna entre as branchs
 ```
+
+## Trabalhando com tags
+
+```shell
+$ git tag #lista as tags
+$ git tag -a <tag> -m <message> #adiciona uma nova tag
+$ git tag -d <tag>  #apaga a tag
+```
