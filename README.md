@@ -46,3 +46,9 @@ Comandos para fazer um primeiro push
 $ git remote add origin <url>
 $ git push -u origin master #somente na criação do repositório
 ```
+
+## Clonando o projeto
+
+```shell
+$ git clone <url>
+```
