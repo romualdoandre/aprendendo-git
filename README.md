@@ -20,3 +20,10 @@ $ git log --full-diff -p <file>
 ```shell
 $ git checkout -- <file> #Desfazer a mudança no arquivo <file>
 ```
+
+## Trabalhando com branchs
+
+```shell
+$ git checkout -b <name> #cria e faz checkout na nova branch
+$ git checkout <name> #Alterna entre as branchs
+```
