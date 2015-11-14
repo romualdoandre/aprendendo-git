@@ -34,4 +34,5 @@ $ git checkout <name> #Alterna entre as branchs
 $ git tag #lista as tags
 $ git tag -a <tag> -m <message> #adiciona uma nova tag
 $ git tag -d <tag>  #apaga a tag
+$ git show <tag> #mostra o log da tag
 ```
